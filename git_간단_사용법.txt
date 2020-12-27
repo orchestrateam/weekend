@@ -1,0 +1,8 @@
+git config --global user.name ""
+git config --global user.email ""
+git clone https://github.com/orchestrateam/weekend.git
+
+git add . 
+git commit -m "주석"
+
+git push -u origin master
