@@ -5,6 +5,13 @@ git config --global user.email "이메일을 적으세요"
 git clone https://github.com/orchestrateam/weekend.git
 
 git add . 
-git commit -m "주석"
+git commit -m "파일을 커밋합니다."
+git push
+
+
+git pull
+
 
 git push -u origin master
+
+git push
