@@ -1,5 +1,7 @@
-git config --global user.name ""
-git config --global user.email ""
+#git 설치 후 프로젝트를 위치하고 싶은 디렉토리로 이동 후 아래와 같이 진행합니다.
+
+git config --global user.name "영어로 이름을 적으세요"
+git config --global user.email "이메일을 적으세요"
 git clone https://github.com/orchestrateam/weekend.git
 
 git add . 
