@@ -1,4 +1,3 @@
-﻿word,synonym,description
 "M10CN 전자 교환기, -電子交換機, metaconta 10CN electronic switching system",,"BTM(현 Alkatel)사에서 생산한 전자 교환기명으로, 1980년대 우리나라에서 No.1A 전자 교환 방식(ESS)과 더불어 전자 교환기의 주종을 이룬 교환기.META CONTA 10AMETA CONTA 10B plot typenext system 10C:marketing or type after10CN:new type"
 "M20-1 다중화기, -多重化器, M20-1 multiplexer, M20-1 MUX",,"디지털 전송계에서의 동기 단국 장치의 일종으로, 디지털 1차군 신호(1.544Mbps 24ch 용량), 또는 2차군 신호(6.312Mbps 96ch)를 국내 인터페이스 신호(8.912Mbps 120ch 용량)로 변환하고 그 역의 변환을 하는 회선 편집 장치. 전송로 등에서 생기는 위상 변동을 흡수하는 기능도 갖고 있다. 회선 편집(회선 설정)은 6회선 단위로 한다."
 "M20-2 다중화기, -多重化器, M20-2 multiplexer, M20-2 MUX",,"디지털 전송계에서의 동기 단국 장치의 일종으로, M20-1 다중화기와 같은 기능이나 회선 편집(회선 설정)을 1회선 단위로 하는 것."

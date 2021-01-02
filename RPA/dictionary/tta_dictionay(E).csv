@@ -1,4 +1,3 @@
-﻿word,synonym,description
 "E-1 회선, -回線, E-1 circuit",,전송 속도 2.048Mbps의 디지털 회선 또는 전용선. 현행 유럽의 디지털 계층(European Digital Hierarchy)에서 30개의 DS-0 회선(64kbps)을 다중화한 DS-1 회선을 E-1 회선이라고 흔히 부른다.
 "E-2 회선, -回線, E-2 circuit",,전송 속도 8.448Mbps의 디지털 회선 또는 전용선. 현행 유럽의 디지털 계층(European Digital Hierarchy)에서 4개의 DS-1 회선(2.048Mbps) 또는 120개의 DS-0 회선(64kbps)을 다중화한 DS-2 회선을 E-2 회선이라고 흔히 부른다.
 "E-3 회선, -回線, E-3 circuit",,전송 속도 34.368Mbps의 디지털 회선 또는 전용선. 현행 유럽의 디지털 계층에서 4개의 DS-2 회선(8.448Mbps) 또는 480개의 DS-0 회선(64kbps)을 다중화한 DS-3 회선을 E-3 회선이라고 흔히 부른다.

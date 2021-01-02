@@ -1,4 +1,3 @@
-﻿word,synonym,description
 "AAA 서버, Authentication Authorization Accounting server, AAA server",,"사용자의 컴퓨터 자원 접근 처리와 서비스 제공에 있어서의 인증(Authentication), 인가(Authorization) 및 과금(Accounting) 기능을 제공하는 서버. 일반적으로 네트워크 접근과 게이트웨이 서버와의 상호 작용을 통하여 사용자 정보가 있는 데이터베이스와 디렉터리에 상호 작용한다."
 "ABC 스위치 상자, -箱子, ABC switch box",,"여러 장치를 공유하기 위해 사용하는 장치. 다수의 컴퓨터가 하나의 프린터를 공유하거나 하나의 컴퓨터가 다수의 프린터를 공유하게 하는 장치이다. 기타 병렬, 직렬, 스카시(SCSI) 응용 프로그램에서도 사용된다."
 "ACID 특성, -特性, Atomic, Consistent, Isolated, Durable, ACID",,"데이터베이스에 대하여 원자성(Atomic), 일관성(Consistent), 고립성(Isolated), 영속성(Durable)을 가져야 하는 트랜잭션의 특성. 원자성은 더이상 분류할 수 없는 작업단위이며 트랜잭션내 모든 단계에서 모두 성공하거나 실패해야 하는 특성이며, 정합성은 데이터베이스를 하나의 안정된 상태에서 다른 안정된 상태로 가져가야 하는 특성이며, 고립성은 임의의 트랜잭션이 동시에 실행되는 다른 트랜잭션에 영향을 주어서는 안되는 특성이며, 내구성은 무결성을 유지하기 위해 재구성될 수 있도록 로그를 드라이브에 유지해야 하는 특성이다."

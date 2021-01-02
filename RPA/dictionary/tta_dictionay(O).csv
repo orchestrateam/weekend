@@ -1,4 +1,3 @@
-﻿word,synonym,description
 "OC-12 회선, -回線, Optical Carrier level 12 circuit, OC-12 circuit",,"전송 속도 622.080Mbps의 디지털 회선 또는 전용선. 미국표준협회(ANSI: American National Standard Institute)에서 표준화한 동기식 광통신망(SONET: Synchronous Optical Network) 신호 계층에서 OC-1 회선(51.840Mbps) 12개, 또는 OC-3 회선(155.560Mbps) 4개를 다중화한 고속 회선이다."
 "OC-18 회선, -回線, Optical Carrier level 18 circuit, OC-18 circuit",,"전송 속도 933.120Mbps의 디지털 회선 또는 전용선. 미국표준협회(ANSI: American National Standard Institute)에서 표준화한 동기식 광통신망(SONET: Synchronous Optical Network) 신호 계층에서 OC-1 회선(51.840Mbps) 18개, 또는 OC-3 회선(155.560Mbps) 6개를 다중화한 고속 회선이다."
 "OC-192 회선, -回線, Optical Carrier level 192 circuit, OC-192 circuit",,"전송 속도 9.953Gbps의 디지털 회선 또는 전용선. 미국표준협회(ANSI: American National Standard Institute)에서 표준화한 동기식 광통신망(SONET: Synchronous Optical Network) 신호 계층에서 OC-1 회선(51.840Mbps) 192개, 또는 OC-3 회선(155.560Mbps) 64개를 다중화한 고속 회선이다."
