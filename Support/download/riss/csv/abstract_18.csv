@@ -1,0 +1,205 @@
+인터랙티브 디자인을 이용한 스마트 타운 설계에 관한 연구 -충장로 증강현실 설계를 중심으로- = A Study on Smart Town Design using Interactive Design -Focusing on Design of Chungjangro Augmented Reality-,"이상범 ( Sang Beom Lee ),박재연 ( Jea Yeon Park )",서울과학기술대학교 과학문화전시디자인연구소,한국과학예술융합학회(The Korean Society of Science & Art),"Vol.18No.-[2014]
+",2014,Korean,"Interactive Design,인터랙티브 디자인,Smart Town,스마트형 도시,Augmented Reality,증강현실,Chungjangro,충장로",658.0,KCI등재,"학술저널
+",,473-482,0.0,,," DBpia, &nbsp;&nbsp; KISS",,"모바일 환경의 급속한 발전과 다양한 스마트 기기의 출시에 따라 우리의 라이프스타일도 점차 변화하기 시작했다. 모바일의 급속한 발전은 시간과 장소에 구애받지 않고, 소소한 즐거움과 몰입감을 즐길 수 있는 새로운 가능성을 열어주었다. 본 논문에서는 모바일 기반의 인터랙티브 디자인과 공간의 관계에 대하여 살펴보고, 구도심의 활성화를 위한 스마트 타운에 대하여 논해 보았다. 특히, 충장로 스마트 타운은 유명 거리에 대하여 스토리텔링 서비스를 제공하고, 인터랙티브 디자인은 증강현실 기술을 통해 디지털 콘텐츠를 상호 교감할 수 있도록 설계하였다. 충장로 스마트 타운은 모바일 서비스를 위해 안드로이드 어플리케이션 형태로 제작된다. AR 기반의 인터랙티브요 소들은 충장로 스마트 타운의 주요 서비스와 융합된 다. 주요한 서비스는 추억의 거리, 걷고 싶은거리, 찾 고 싶은 거리, 추천 관광코스로 구성하였다.","Lifestyle gradually began to change with the rapid development and introduction of a variety of smart devices in a mobile environment. The rapid development of mobile anytime, anywhere, opened up new possibilities to enjoy the little pleasures and immersive. In this paper, we looked at the relationship between the mobile-based interactive design and space. In addition, we designed the smart town for activation of old downtown. In particular, Chungjangro-Sm artTow n has provided a storytelling service to the famous street. Interactive design was designed to be mutually sympathetic to digital content via augmented reality technology. Chungjangro-SmartTown is produced by Android Application form for mobile services. AR-based Interactive elements are fused with the main service of Chungjangro-SmartTown. The main service consists of the streets of memories, walking like streets, looking like streets, recommended tour course.",
+스마트폰의 여행지 활용에 관한 연구 = A Study On Utilization Of Smart Phones While Traveling,"안소영(So-Young Ahn),윤경배(Kyung-Bae Yoon)",한국컴퓨터정보학회,한국컴퓨터정보학회 학술발표논문집,"Vol.19No.2[2011]
+",2011,Korean,"스마트폰,안드로이드,활용도,Smart Phone,Android,Utilization",,,"학술저널
+",http://www.ksci.re.kr,297-299,,,, DBpia,,"본 논문은 여행지에서 스마트폰을 이용해 맛집을 검색하여 방문하는 앱을 수행해 봄으로써 스마트폰의 활용도를 높였다. 본 앱을 활용하여 처음 방문하는 지역에서 맛집을 검색하여 거리를 측정해 보고 최단코스를 확인한 후 찾아가 보자. 본 앱은 각 지역이 맛집에 대한 DB를 등록해 두고 개인적인 취향을 기록해 두기 위해 평점을 분류해서 입력하도록 배치하였고 본인의 추억을 기록할 입력란을 추가해 두었다. 교통편에 대한 정보 필드도 설계하여 여행의 접근성도 높였으며, 맛집은 물론 유명 관광지, 지인의 집 정보 입력 등으로 DB를 확장해서 활용 가능하다.",,
+스마트폰 기반의 QR코드 해석기 성능분석 및 응용개발 = Application Development and Performance Analysis of Smartphone-based QR Code Interpreter,"박찬정,현정석,Park, Chan-Jung,Hyun, Jung-Suk",한국정보통신학회,한국정보통신학회논문지,"Vol.13No.10[2009]
+",2009,Korean,"QR코드 해석기,트리즈,u-맵,유비쿼터스 응용,u-팜플렛",,KCI등재,"학술저널
+",http://www.kiice.org,2242-2250,3.0,,, NDSL,,"최근 유비쿼터스 시대가 도래함에 따라 서비스 형태가 다양화되고 있다. 모바일 기술의 발전으로 휴대폰의 새로운 기능들이 대두되고 있고 모바일폰을 활용한 유비쿼터스 응용들이 활발히 개발 중이다. 또한 모바일폰과 관련된 여러 응용에서 이차원 바코드의 활용이 증가하고 있다. 이차원 바코드는 지금까지 이력관리를 위해서 주로 사용되다가 모바일폰에 탑재되면서 교육, 관광, 축제 등 홍보를 위한 수단으로 그 영역이 확장되었다. 본 논문에서는 이차원 바코드인 QR코드의 응용영역을 확장하여 오프라인과 온라인을 연동하는 스마트폰 기반의 QR코드 해석기를 개발한다. 또한 트리즈(TRIZ)를 이용하여 성능개선을 위한 요소를 찾아내고 해석기를 개선한다. 본 논문에서 개발한 QR코드 해석기와 오픈 소스 기반의 QR코드 해석기의 성능을 해석이 가능한 QR코드 이미지의 크기, 해석 속도 측면에서 비교하여 본 논문에서 제안한 해석기의 우수성을 입증한다. 마지막으로 QR코드를 이용한 응용으로 u-맵과 u-팜플렛을 소개한다.","Recently, with the advance of Ubiquitous era, the types of services become diverse. Especially, due to the rapid development of mobile technology, the new functions of mobile phones are added and the new applications of mobile phones are developed actively. Among the various applications related to mobile phones, 2 dimensional barcode-based applications are increasing. 2 dimensional barcode is mostly used for the management of past record. However, by combing 2 dimensional barcode with mobile phones, the application areas of 2 dimensional barcode are expanded to the means of publicity for education, tourism, and festivals. In this paper, we develop a QR code decoder running on smartphones, which connects on-line and off-line. In addition, we modify our decoder by detecting the point for performance enhancement based on TRIZ. We compare our decoder with an open-source based decoder in terms of the code size of decoding and the speed of decoding in order to prove that our decoder has a better performance than the other. Finally, we introduce two applications: u-map and u-pamphlet as QR code applications.",
+지역전통문화자원의 지역 협력을 통한 콘텐츠 창구효과 강화를 위한 연구 -‘남도 르네상스’ 콘텐츠와 연계 협력을 중심으로 = A Study on Strengthening the Window Effect of Content through Regional Cooperation of Local Traditional Cultural Resources - Focusing on cooperation with ‘Namdo Renaissance’ contents,정연철,(사)한국스마트미디어학회,스마트미디어저널(Smart media journal.),"Vol.6No.4[2017]
+",2017,Korean,"Traditional Culture Resources,Namdo Renaissance,Story SarangBang,Content commercialization,Brand killer content,전통문화자원,남도르네상스,스토리 사랑방,콘텐츠 사업화,브랜드 킬러 콘텐츠",,KCI등재후보,"학술저널
+",,101-109,1.0,,," NDSL, &nbsp;&nbsp; KCI",,"지역의 전통문화자원은 독특한 문화적 특성을 가지고 있어 차별화 가능성이 높은 콘텐츠 자원이다. 따라서 지역 문화자원을콘텐츠로 개발하면 경제적 가치 창출과 함께 지역을 상징하는 브랜드로 활용할 수 있다. 본 논문에서는 전남 지역의 전통문화자원을 활용하여 콘텐츠 소재로 활용하고 전남도에서 추진하는 ‘남도 르네상스’ 사업 콘텐츠와의 연계성을 강화하기 위한 방안을제안한다. 전남 시군의 자원 요소와 분석을 통해 지역 간 협업을 위해 콘텐츠 연관성을 갖는 지역으로 7개 권역을 제안한다.
+권역별 상징성을 갖는 스토리를 발굴하고 체계화 할 수 있도록 “스토리 사랑방‘을 제안한다. 개발된 이야기 자원을 실감미디어제작 기술과 가상현실 플랫폼 등을 통해 체험형 콘텐츠로 개발하고 관광 콘텐츠로 확장하여 콘텐츠 창구효과로 확대한다.
+이를 통해 상대적으로 콘텐츠 사업화 기반이 취약한 시군의 콘텐츠 경쟁력을 높일 수 있다. 또한 지역 간 협력 거버넌스 확대로공동 콘텐츠 개발 기회를 높이고 관광 콘텐츠로 활용성을 높여 지역경제 발전과 관련 산업 발전에 기여할 수 있다.","Traditional cultural resources in the region have unique cultural characteristics and are highly likely to be differentiated content resources. Therefore, when local cultural resources are developed as content, they can be given a role as a brand symbolizing the region together with economic value creation. In this paper, we propose a method to utilize traditional cultural resources in Jeonnam region as content material and to strengthen the connection with ‘Namdo Renaissance' project contents in Jeonnam province. We propose seven regions as a region with content relevance for inter-regional collaboration through resource elements and analysis of Jeonnam cities and counties. We suggest ""Story SarangBang"" so that we can uncover and systematize stories with symbolic character by region. The developed story resources are developed as experiential contents through realistic media production technology and virtual reality platform and expanded to tourism contents and expanded to the window effect of contents. Also, by expanding cooperation governance between regions, it is possible to enhance opportunities for development of joint contents and enhance utilization as tourist contents, thereby contributing to regional economic development and related industries development.",
+스마트톨링 도입에 따른 고속도로 여유공간의 효율적 활용방안 = Efficient Utilization of Expressway Tollgate Space by Introduction of Smart Tolling System,"박준식(JunSik PARK),성낙문(Nakmoon SUNG),김거중(Gurjoong KIM),정동우(Dongwoo JUNG),문지혜(Jihye MOON),고승렬(Seungryul Go)",한국교통연구원,한국교통연구원 기본연구보고서,"Vol.-No.-[2018]
+",2018,Korean,,,,"학술저널
+",,1-205,,,, DBpia,,,"Expressway tollgates have significant utility in network operation and management, as they are located on a heavily weighted nodal point in the road network. The introduction of the smart tolling system, which is an unmanned and automatic fare collection system, is expected to greatly improve the operational efficiency of the expressway. In addition, the space occupied by the tollgate facility is left as an idle site and needs to be explored.
+  The total number of toll booths for expressway network in Korea is 373, and if a smart tolling system is introduced, it is estimated that about 2.76㎢and about one third of Yeoido area idle land will be generated. All sites are scattered throughout the country, each individual area is not so large, and the site form is not square area, which limits its usability. On the contrary, however, the utilization may be even greater because it is the number of idle sites connected to the expressway network.
+  In order to utilize the idle land of the expressway toll booth, it is necessary to establish ① facilities that meet the functions of the highway such as resting facilities, transit facilities, and logistics facilities, ② facilities to enhance local economic revitalization and operation revenues such as local specialty stores or tourist information facilities, and ③ facilities for creating future road traffic culture such as hydrogen car filling stations, autonomous driving vehicles and drones support facilities. It would be better to incorporate private creative ideas through attracting private businesses, and the establishment of non-profit facilities would require the policy decision of Korea Expressway Corporation.
+  The data on the idle site database of the expressway tolls surveyed in this study can be used as a basis for the central government or Korea Highway Corporation to prepare policy alternatives using idle sites on expressways. In addition, the results of the quantitative effect analysis on the transit center and the results of the study on the optimum location of the hydrogen car filling station can be used as the basic data for the policy decision when the central government or Korea Highway Corporation. I hope that this study will be the basis for the effective utilization of idle land on the expressway due to the introduction of Smart Tolling System.","[표지]
+[서문]
+[차례]
+   표차례
+   그림차례
+[요약]
+   1. 서론
+   2. 고속도로 여유공간 활용 사례
+   3. 고속도로 영업소 유휴부지 현황 조사
+   4. 고속도로 영업소 유휴부지 활용 대안 도출 및 평가
+   5. 대중교통 환승시설로의 활용 방안
+   6. 융 · 복합충전소로의 활용 방안
+   7. 결론 및 정책제언
+[제1장 서론]
+   제1절 연구의 배경 및 필요성
+   제2절 연구의 목적 및 방법
+   제3절 기존 및 타 연구와의 차별성
+[제2장 고속도로 여유공간 활용 사례]
+   제1절 물류기능 활용 사례
+   제2절 환승기능 활용 사례
+   제3절 상업 · 관광기능 활용 사례
+[제3장 고속도로 영업소 유휴부지 현황 조사]
+   제1절 조사 방법
+   제2절 유휴부지 산정 기준
+   제3절 영업소의 도로 기하구조 유형 분류
+   제4절 고속도로 영업소 유휴부지 현황 조사 결과
+[제4장 고속도로 영업소 유휴부지 활용 대안 도출 및 평가]
+   제1절 도로 기하구조에 따른 유휴부지 특성분석
+   제2절 고속도로 영업소 유휴부지 활용 대안 도출
+   제3절 유휴부지 활용 대안 평가
+   제4절 연결로 시설개선에 따른 유휴부지 확대 효과 검토
+[제5장 대중교통 환승시설로의 활용 방안]
+   제1절 고속도로 대중교통 환승시설의 개요
+   제2절 고속도로 영업소 대중교통 환승시설 후보지 선정
+   제3절 고속도로 영업소 대중교통 환승시설 구축 방안
+   제4절 신탄진 IC 대중교통 환승시설 설치 효과 분석
+[제6장 융 · 복합충전소로의 활용 방안]
+   제1절 융 · 복합충전소로의 활용 전략
+   제2절 수소충전소 최적입지 선정의 영향요인
+   제3절 고속도로 영업소를 활용한 수소충전소 최적 입지 선정
+   제4절 수소충전소 구축 전략
+[제7장 결론 및 정책제언]
+   제1절 연구결과
+   제2절 연구결과의 활용방안
+   제3절 정책제언
+[참고문헌]
+[부록]
+[Abstract]
+"
+스마트폰 외식정보서비스의 구전정보 특성에 따른 신뢰형성이 행동의도에 미치는 영향에 관한 연구 = Application 외식정보서비스 사용자들을 대상으로,"김형준(Hyung Joon Kim),김용일(Yong Il Kim)",한국호텔외식관광경영학회,호텔경영학연구,"Vol.23No.1[2014]
+",2014,Korean,"외식정보서비스,신뢰형성,구전정보 특성,food information service,e-WOM characteristics,trust building",,KCI등재,"학술저널
+",http://www.kasha.or.kr,45-64,,,, DBpia,,"오늘날 외식산업에서 구전정보는 소비자들의 구매의사결정을 판단하는데 가장 중요한 정보원천이다. 이에 본 연구에서는 다양한 외식상품 및 업체가 등록되어있는 애플리케이션 사용자들을 대상으로 외식상품 구매 및 외식업체 방문에 대한 호의적인 태도와 실제적인 행동의사에 영향을 미칠 수 있는 구전정보 신뢰형성의 결정요인을 파악하고자 한다. 이 같은 연구목적을 달성하기 위해 스마트폰 외식정보 서비스 내의 사용후기나 평가 등의 구전정보를 수용한 후 외식상품을 구매하거나 외식업체를 방문한 소비자들을 대상으로 2013년 3월 1일부터 2013년 4월 1일까지 약 한 달간에 걸쳐 설문조사를 실시하였다. 총 293부의 설문지를 회수하여 이중 연구목적과 부합되지 않거나 다수의 결측값 및 설문태도가 불성실한 33부를 제외한 247부를 분석자료로 활용하였다. 실증분석 결과는 다음과 같다. 첫째, 스마트폰 외식정보서비스 구전정보 특성 중 생생함, 동의성, 상호작용성 등의 순으로 유용성에 유의한 정(+)의 영향을 미치는 것으로 나타났다. 둘째, 스마트폰 외식정보서비스 특성 중 유용성, 동의성, 생생함, 상호작용성 등의 순으로 구전신뢰에 유의한 정(+)의 영향을 미치는 것으로 나타났다. 셋째, 스마트폰 외식정보서비스의 유용성은 행동의도에 유의한 영향을 미치지 않으나 구전신뢰는 행동의도에 유의한 정(+)의 영향을 미치는 것으로 나타났다. 본 연구는 앱을 기반으로 한 가상공간에서 구전정보 신뢰형성에 영향을 미치는 결정요인을 파악하고 소비자들의 행동의사를 예측했다는데 그 의의가 있다.","Interpersonal influence and word-of-mouth (WOM) are ranked the most important information source when a consumer is making a purchase decision. The purpose of this study was to investigate the effect of trust building in electronic word-of-mouth (e-WOM) communication on consumer behavior in the context of smartphone application of food service information. A survey was conducted from March 1 to April 1, 2013. A total of 293 questionnaires were collected. Excluding missing questionnaires, 247 usable questionnaires were analyzed. The results of the study were as follows. First, the characteristics of e-WOM were divided into five factors including vividness, consensus, recentness, interactivity, and usefulness. And trust of e-WOM and consumers ``behavior intention were composed of single dimension. Second, e-WOM characteristics excepting recentness, vividness had the most significant impact on usefulness followed by consensus and activity. Third, e-WOM characteristics excepting recentness, usefulness had the most significant impact on trust of e-WOM followed by consensus, vividness, and interactivity. Finally, trust of e-WOM had a direct effect on consumers ``behavior intention in a positive way, while usefulness didn`t affect behavior intention. The result of this study suggests that trust of e-WOM is the most important factor that enhances behavior intention by improving vividness, consensus, interactivity and usefulness.",
+확장된 기술수용 모델을 적용한 스마트폰 외식정보 서비스 사용자의 수용태도에 관한 연구,"김용일(Kim, Yong-Il),임재문(Lim, Jae-Moon)",한국호텔외식관광경영학회,호텔경영학연구,"Vol.23No.5[2014]
+",2014,Korean,"smart phone food information service,information quality,system quality,innovation,self efficacy,social influence,perceived usefulness,perceived easy of use,스마트폰 외식정보서비스,정보 품질,시스템 품질,혁신성,자기효능감,사회적 영향,지각된 유용성,지각된 사용의 용이성",,KCI등재,"학술저널
+",http://www.kasha.or.kr,275-289,38.0,,, DBpia,,,"The Purpose of this study was to identify the effects of smart phone food information service on the user""s acceptance attitude based on an extended TAM (Technology Acceptance Model) through SEM (Structured Equation Model). A survey was conducted from June 1 to August 31, 2012. A total of 326 questionnaires were collected and 255 questionnaires were used. The results of this study are as follows: Firstly, it was found that information quality and system quality had positively significant influences on perceived usefulness and perceived easy of use. Secondly, innovation had a statistically positive effect on perceived usefulness and perceived easy of use, and self efficacy had a positively significant influence on perceived usefulness only. Third, it was found that social influence had a positively significant influence on intention to use, but not on perceived usefulness. Lastly, perceived usefulness and perceived easy of use had statistically positive effects on intention to use.","Abstract
+Ⅰ. 서론
+Ⅱ. 이론적 배경
+Ⅲ. 연구설계
+Ⅳ. 실증연구
+Ⅴ. 결론
+참고문헌
+국문초록
+"
+스마트폰을 이용한 여행지 맛집 검색 앱 활용에 관한 연구 = Study on the utilization of Travel site Matjip (Reputable Restaurant) search application(APP) using Smart Phone.,"윤경배,송승헌",한국디지털정책학회,디지털융복합연구(Journal of Digital Convergence),"Vol.11No.10[2013]
+",2013,Korean,"스마트폰,맛집,여행지,검색 앱,활용도,Smart Phone,Reputable Restaurant,Travel site,Search Application(APP),Utilization",326.41,KCI등재,"학술저널
+",http://www.policy.or.kr,437-443,2.0,,," NDSL, &nbsp;&nbsp; KCI, &nbsp;&nbsp; eArticle",,"본 논문은 여행지에서 스마트폰을 이용해 맛집을 검색하여 방문하는 앱을 수행해 봄으로써 스마트폰의 활 용도를 높였다. 구현된 앱을 가지고 맛집을 검색하면 최적의 맛집을 선택할 수 있다. 특히 본 앱은 각 지역별로 적 합한 메뉴, 식당의 스타일 및 디자인, 가격의 합리성, 종업원의 인적서비스 및 위생 관리 등의 활용도 및 만족도를 통하여 평가되고 입력된 정보를 미리 DB에 등록해 두고 개인적인 취향을 기록해 두기 위해 평점을 분류해서 입력하 도록 배치하였으며, 본인의 추억을 기록할 입력란을 추가해 두었다. 더불어 교통편에 대한 정보 필드도 설계하여 여 행의 접근성도 높였으며, 향후 여행지 맛집은 물론 유명 관광지, 지인의 집 정보 입력 등으로 DB를 확장해서 활용 가능하다.",,"요약
+ Abstract
+ 1. 서론
+ 2. 관련 연구
+  2.1 오푸드
+  2.2 현대카드 MY MENU
+  2.3 블루리본 서베이
+ 3. 앱 설계 및 구현
+  3.1 시스템 설계
+  3.2 DB 설계
+  3.3 화면 구현
+ 4. 실행 결과 및 평가
+ 5. 결론
+ REFERENCES"
+"외식업체의 스마트폰 기반 소셜네트워크서비스(SNS) 품질이 이용자 만족, 이용의도 및 구매의도에 미치는 영향","이혜성(Hye Sung Lee),남궁영(Young Nam Kung)",한국호텔외식관광경영학회,호텔경영학연구,"Vol.23No.1[2014]
+",2014,Korean,"SNS 품질,스마트폰,만족도,이용의도,구매의도,외식업체,SNS quality,smartphone,satisfaction,intention to use,future purchase intention,foodservice industry",,KCI등재,"학술저널
+",http://www.kasha.or.kr,145-163,42.0,,," KCI, &nbsp;&nbsp; DBpia",,"본 연구는 목적은 외식기업의 스마트폰 기반 SNS의 품질을 실용적 측면과 경험적 측면을 종합적으로 고려하여 평가하고, SNS품질이 이용자의 SNS 만족도에 영향을 주는 지 알아보고 SNS 만족도가 지속적 SNS 이용의도에 미치는 영향, 궁극적으로 지속적 이용의도가 실제 외식업체에서의 구매의도에 미치는 영향에 대해 조사하고자 하였다. 스마트폰을 이용하여 외식업체의 SNS를 이용해 본 경험이 있는 소비자들을 대상으로 설문조사 하였으며, 총 525부가 최종분석에 사용되었다. 본 연구의 결과는 다음과 같다. 첫째, 외식업체의 스마트폰 기반 SNS의 품질이 미적, 정보, 오락, 시스템의 4개의 요인으로 추출되었으며, 이들 품질 요인 모두 이용자 만족도에 유의적인 정(+)의 영향을 미치는 것으로 나타났으며 상대적으로 정보, 미적, 오락, 시스템품질의 순서로 영향을 주는 것으로 나타났다. 둘째, SNS의 이용만족도가 지속적 이용의도에 유의적인 정(+)의 영향을 주는 것으로 나타나 SNS 품질에 대한 만족도가 높을수록 지속적으로 이용하려는 의도가 높아지는 것이 확인되었다. 셋째, SNS의 지속적 이용의도가 실제 외식업체에서의 구매의도에 유의적인 정(+)의 영향을 주는 것으로 밝혀져 외식업체의 SNS를 지속적으로 이용할수록 실제 외식업체에서 구매할 의도가 높아지는 것이 확인되었다. 결과를 바탕으로 외식업체의 SNS 마케팅 실무자들을 위한 이론적·실무적 시사점이 제시되었다.","SNS marketing has become an important part of the foodservice industry. This study aims to 1) examine the effects of perceived quality of smartphone based SNS on user satisfaction, 2) investigate the effects of SNS user satisfaction and intention to use SNS, and 3) assess the effects of intention to use SNS and intention to future purchase in the foodservice industry. A total of 525 samples who had experienced smartphone based SNS in relation to the foodservce industry participated in this study. The results were as follow: First, factor analysis identified four smartphone based SNS quality dimensions: information, system, aesthetic and entertainment. Second, regression analysis was performed to examine the effects of four SNS quality dimensions and SNS user satisfaction. The results showed that all of the four factors (information, system, aesthetic, and entertainment) had significantly affected SNS user satisfaction. Third, SNS user satisfaction had a positive significant effect on his/her intention to use SNS. Fourth, intention to use SNS had a positive significant effect on future purchase intention in the foodservice industry. These findings provide managers in the foodservice industry with knowledges for the association between intention to use SNS and actual future purchase in the foodservice industry. Implications and future research were also discussed.",
+회원 특별기고 : 스마트폰을 이용한 한방 의료 시스템,홍유식,한국과학기술개발원,과학기술정보(Information magazine of science & technology),"Vol.10No.-[2013]
+",2013,Korean,,,,"학술저널
+",,21-39,,,, KISS,,"2018년도 평창 올림픽은 유비쿼터스 기술을 이용해서 동계 올림픽 관광객 들 에게 실시간 통역서비스 및 스키장에 RFID 태그및 동작 감지 센서를 설치해서 구간별, 위치별측정 기록을 선수 및 경기장 심판에게 언제 어디서나 유무선 통신 장치로 실시간으로 제공 할 예정이다. 본 논문에서는 올림픽기간에 관람객이 누구나 간단하게 언제, 어디서나, 스마트폰을 이용한 의료 시스템 지원을 받을 수 있도록 원격으로 맥진을 할 수 있는 알고리즘 및 실시간으로 원거리에서 환자의 맥파 파형을 수신해서 실시간 건강 상태를 판단 하는 시스템 및 유비쿼터스 기술을 이용한 지능형 평창 올림픽 시스템을 제안하고자 한다.",,
+송산그린시티 동측지구내 선진적인 스마트시티 구축기술에 관한 연구 = The study on the deployment Technology o fthe advanced Smart City in Songsan Green Cit,"강세연(Kang Sei Yeon),곽준근(Kwag Jun Keun),양미란(Yang Mi Ran),오현석(Oh Hyun Seok)",한국통신학회,한국통신학회 학술대회논문집,"Vol.2018No.11[2018]
+",2018,Korean,,,,"학술저널
+",http://www.kics.or.kr,161-165,,,, DBpia,,"본 논문은 시민들의 Life Style변화에 대응하고 송산그린시티의 미래상을 달성하기 위해 기술과 주거,산업,관광레저 등 기능이 상호 효율적으로 융합된 환경친화적 첨단도시를 건설하기 위하여 스마트도시에 적합한 u-서비스 분야인 u-교통,u-방범,u-정보제공, u-상수도 및 초고속유선정보통신인프라 구축기술에 대하여 기술하기로 한다.",,"요약
+Ⅰ.서론
+Ⅱ. 본론
+Ⅲ. 결론
+참고문헌
+"
+서남권 요트 항로 가이드에 관한 스마트폰용 어플리케이션 프로토타입 개발,"강상일,김대희,조수산,서소연,임정빈,양원재",해양환경안전학회,해양환경안전학회 학술발표대회 논문집,"Vol.2012No.04[2012]
+",2012,Korean,"요트 항로,항로 가이드,해양관광,요트 마리나,스마트폰 어플리케이션",,,"학술저널
+",http://kosomes.mmu.ac.kr,51-54,,,, 코리아스칼라,,"최근 전국적으로 요트관련 산업이 활발하게 전개되고 있다. 특히, 전라남도는 천혜의 요트 최적지로서 우리나라 요트레저 수요를 충족하기 위하여 다양한 요트 계류장을 구축하고 있다. 그러나 현재 국내에는 요트 항로의 개발은 물론, 안전한 요트 항로 유도를 위한 장치의 개발이 전무한 실정이다. 본 연구에서는 최근 널리 보급되어 있는 스마트폰을 이용한 요트 항로 가이드용 어플리케이션 프로토타입을 개발하였다. 개발한 항로는 시범운영을 위하여 목포를 기점으",,
+A Study on the SMART Tourism Information Utilization in Korea = 우리나라 호텔 및 레지던스 호텔에서 스마트관광을 위한 정보의 사용에 관한 연구,"Hyo-Kyung Kim(김효경),Jae-Young Moon(문재영)",한국컴퓨터정보학회,韓國컴퓨터情報學會論文誌(Journal of the Korea society of computer and information),"Vol.23No.10[2018]
+",2018,Korean,"Smart Tourism,e-tourism,Tourism Information,Customer Management,Smart City",,KCI등재,"학술저널
+",http://www.ksci.re.kr,203-207,,,, DBpia,,,"The purpose of this study is to investigate how smart tourism is applied to hotels and residences using ICT in Korea. Smart tourism is similar often used as a concept such as u-tourism, e-tourism, and digital tourism but the most similar of ubiquitous. This is reflecting to the fact that the recent trend of tourism has been decreasing from the large scale to the individual but the customers demand has been increasing, so we have examined how the hotel and the residence are adapting this situation. As a results, hotels and residences in Korea are reflecting to improve work process and remodeling of customer service.","Abstract
+Ⅰ. Introduction
+Ⅱ. Literature Review
+Ⅲ. Research Model and Hypotheses
+Ⅳ. Methodology
+Ⅴ. Results
+Ⅵ. Conclusion and Limitations
+REFERENCES
+"
+자전거 사용자를 위한 Smart Headwear UX 컨텐츠 발굴 = UX Contents Development of Smart Headwear for bicycle user,"최재현(Jae-hyun Choi),배성수(Sung-soo Bae),김주희(Juhee Kim),윤상영(Sangyoung Yoon)",한국HCI학회,한국HCI학회 학술대회,"Vol.2017No.2[2017]
+",2017,Korean,"자전거 사용자 경험,Smart Headwear,Persona,Journey map,UX 컨텐츠 발굴",,,"학술저널
+",,216-219,,,, DBpia,,"최근 디지털 라이프 환경의 변화와 함께 Wearable Device 에 대한 기술들이 발전하고 있다. 특히, 스마트 안경의 관심과 시장성이 높아져 가고 있고, 스포츠용 스마트 안경 개발도 다양하게 이루어지고 있다. 그러나 실용성의 검증과 성공적인 수익 모델이 현재는 없는 상태이다. 자전거 비즈니스 관광 모델 해외성공사례를 참고로 스마트 안경을 통한 비즈니스 모델을 고려해 볼 수 있을 것이다. 본 연구는 자전거를 탈 때 전방 주시에 대한 중요성을 참고로 자전거 헬멧에 장착을 고려한 Smart Headwear 컨텐츠 발굴을 위해 User Research 를 진행하여 사용자 Needs 와 Pain Point 를 파악하고자 하였다. 그리고 UX 디자인 요소들을 도출하기 위해 Persona, Journey map 을 제작하여 자전거 사용자의 Cycling 을 위한 차별화된 경험 컨텐츠를 발굴하였다. 주요 컨텐츠는 Safety, Tour, Social, Health 로 현재 진행중인 본 연구에서는 자전거 경험 향상을 위해 도출된 컨텐츠들 중 안전한 사이클링을 할 수 있도록 길안내, 사고에 대한 대처, 자전거 여행을 위한 정보 제공에 대한 UX 디자인을 진행 중이다. 본 연구를 통해 발굴된 UX 컨텐츠 방향과 비즈니스 성공 모델이 될 수 있는 새로운 Smart headwear 개발 과정은 향 후 자전거용 스마트 디바이스에 대한 UX 전략을 수립하는데 활용 될 수 있을 것으로 기대 된다.",,"요약문
+1. 서론
+2. 사용자 조사
+3. UX 분석
+4. 분석결과
+5. 결론
+참고문헌
+"
+내수면 선박의 안전운항을 위한 스마트폰기반 어플리케이션 개발 = Development of Smart Phone Application for the Safe Operation of Inland Vessels,"조병완(Byung-Wan Jo),이윤성(Yun-Sung Lee),김도근(Do-Keun Kim),김정훈(Jung-Hoon Kim),김길용(Kil-Yong Kim)",한국콘텐츠학회,한국콘텐츠학회논문지,"Vol.16No.4[2016]
+",2016,Korean,"내수면,선박,안전사고,운행도우미 어플리케이션,전자해도,Inland Water,Vessel,Accident,Navigation Guiding Applicaion,IENC",,KCI등재,"학술저널
+",http://www.koreacontents.or.kr,442-454,0.0,,," NDSL, &nbsp;&nbsp; KCI, &nbsp;&nbsp; DBpia",,"최근 주 5일제 근무로 인한 여가시간 증가와 국민 소득수준의 향상으로 내수면에서의 레저 활동 및 관광인구가 증가함에 따라 내수면을 운항하는 선박과 레저장비는 지속적으로 증가할 전망이다. 이로 인해 내수면에서의 선박사고와 인명 사고 발생 가능성도 크게 높아지고 있다. 내수면에서 발생하는 선박의 안전사고를 미연에 방지하기 위해서는 선박의 항해정보와 위험상황 경고 및 긴급구조 지원시스템이 요구된다. 본 논문에서는 내수면에서 운항하는 선박 및 승객의 안전 확보를 위하여 현재 보급률이 우수한 스마트폰 기반의 운행도우미 어플리케이션을 개발하였다. 운행도우미 어플리케이션은 화면상에 내수면 전자해도와 자선 정보를 표시하고, 선박 사고 시 관제센터 및 주변 선박과 긴급구조 메시지를 송수신할 수 있는 기능을 지원한다. 이러한 운행도우미 어플리케이션을 구현하기 위해서는 내수면 전자해도의 구축이 필수적이다. 따라서 선박통행량과 거주인구가 가장 많은 한강(영등포, 광진구)일대를 대상으로 멀티빔 수심측량을 통해 수치지형도를 작성하고, 이를 기반으로 전자해도를 제작하였다.","Recently, due to the increment of national income and the living standard of citizens, the leasure business has been dramatically expanded. Among the business, inland water activities such as cruise tour or water taxi have drawn attention from the people. As more people come for a new pleasure, the frequency and the number of services continues to rise yet the safety of people values less recently. In fact, the number of relating accidents also has risen accordingly. In order to prevent such accidents in inland waters, the vessels’ real time voyage data, the advanced warning system and the emergency rescuing system are required. 
+  In this paper, we have developed navigation guiding application for safety of passengers and vessels in inland waters. Navigation guiding applications not only provide Inland Electronic Navigational Chart(IENC) and vessel information but also allows communication between traffic service center and nearby vessels in case of an emergency situation.
+  In order to implement Navigation guiding applications, developing Inland Electronic Navigational Chart was inevitable. Therefore, IENC of Han River, has developed based on measuring the water depth using multi-beam echo sounder system.","요약
+Abstract
+I. 서론
+Ⅱ. 관련 연구 동향
+Ⅲ. 내수면 전자해도 제작
+Ⅳ. 운행도우미 어플리케이션 개발
+Ⅴ. 현장적용 및 성능평가
+Ⅵ. 결론
+참고문헌
+"
+AI Technology for Smart City,김화종,한국정보통신설비학회,한국정보통신설비학회 학술대회,"Vol.2018No.08[2018]
+",2018,Korean,,,,"학술저널
+",,273-298,,,, eArticle,,,,"스마트시티
+유비쿼터스도시(u-City)
+스마트시티 목표
+자율주행차
+현황과 이슈
+광주 스마트시티계획 (2017)
+대구
+부산
+세종
+인천
+미국
+중국
+인도
+스페인
+정부의 역할 변화
+표준화의 중요성
+도시데이터 관리
+융합이 핵심
+AI
+도시 전이학습
+데이터 공유
+Deep Learning City Framework
+DCF 프레임워크의 장점
+특징
+활용 전략
+활용 사례 - 재난관리
+도시 간 교통관리
+자원 및 에너지 관리
+도시 연계 관광 서비스
+개인정보 및 프라이버시 보호
+방향
+결론
+"
+The Planning Elements of the Sea Port City Regeneration Applying Smart,"Keun-Hyung Kim,Yung-Cheol BYUN,Sung-Back KIM",제주대학교 관광과경영경제연구소,産經論集,"Vol.40No.3[2020]
+",2020,Korean,"Smart City,Decision Model,AHP,Priority Driving Tasks,Jeju",,KCI등재후보,"학술저널
+",,27-38,0.0,,, 스콜라,,,"Purpose: The Smart City Project aims to secure the sustainability of cities with many social problems and to improve the lives of urban residents. However, the implementation tasks and methods for realizing a smart city may vary depending on the situation of each city. If you can determine the priority and appropriate methods of each project in the smart city project, you can increase the chances of smart city implementation success. In this paper, we proposed a decision model based on AHP (Analytical Hierarchy Process) that can identify the priority of each tasks that can be included in the smart city project and the appropriate methods for driving forward each task. The proposed decision model was applied in consideration of the situation of Jeju Smart City and suggested implications through expert surveys and analysis. Research design, data and methodology: The proposed decision model is designed to apply the AHP and has a structure including three-tier factors. In the proposed decision model, the first tier corresponds to the driving area of the smart city, the second tier corresponds to the driving task, and the third tier corresponds to the deriving method. The proposed decision model was applied to the Jeju Smart City project. In the Jeju Smart City decision model, evaluation factors in each tier were derived through literature review and expert brainstorming. As an example of applying the decision model for Jeju Smart City, tourism, resident life, and industry were derived as the promotion areas included in the first tier. The promotion tasks included in the 2nd tier include electric vehicle diffusion, energy development, MaaS, safety, and garbage. Big data platform and block chain special zone were derived. As the promotion methods for each project, the government-led, private enterprise-led, join-up, and living labs were drawn. The proposed decision model can be customized for each city's situation. Conclusions: The most important driving area in Jeju Smart City was the area of resident life. The tasks of high importance were in the field of safety and garbage. As for the method of deriving tasks in the project, the proportion of the government (public) lead was high. The decision model proposed in this paper can be customized for other smart city projects and used.",
+The Planning Elements of the Sea Port City Regeneration Applying Smart Growth Principles: Focused on Connecting the Old Downtown to the Sea Port in Jeju City,"이생기,최용복",제주대학교 관광과경영경제연구소,産經論集,"Vol.40No.2[2020]
+",2020,Korean,"Smart growth,Sea port City regeneration planning elements,Jeju Old Downtown . Jeju Port",,KCI등재후보,"학술저널
+",,53-65,0.0,,, KCI,,,"Purpose-The smart growth principle is proposed as a way to cope with the disorderly spread of the sea port city.  The purpose is to derive planning elements for the sea port city regeneration that apply the smart growth principle. Research design- In the case of Jeju City, the Old Downtown surrounding Jeju Port showed a hollowing out of the city center. The competitiveness of the Old Downtown has weakened, losing its status as an economic center and deriving various urban problems. Therefore, this study uses smart growth principles to derive elements of the sea port city regeneration planning. data and methodology- 179 elements were finally selected through FGI techniques from planning elements obtained through prior research. A panel of 43 experts was selected and Delphi was used. Result-The results of the first Delphi survey showed that 179 planning elements were refined into 97 planning elements. The second Delphi survey also confirmed 97 planning elements as final 53 planning elements. The large class was finally selected for environmental, infrastructure and institutional, social and economic aspects. The Middle class was classified as smart environment, protection of ecological environment, harmony of environment and landscape in environmental aspect, open space. In infrastructure and institutional aspects, urban design, compressive and complex land use, support system, regenerative integration system hick and practice, social aspect is Amenity, safety, pedestrian-oriented space, and economic aspect is industrial infrastructure, marine tourism city, smith port, and utilization of historical space. The Subclass was confirmed to be 53. Conclusion –The number of planning elements for the the sea port city regeneration has been finalized at 53. In this process, some similar items have not been refined in classifying into The large class, The Middle class and The Subclass. Also, the fact that the Delphi open survey did not collect various views on Jeju Island's characteristics is a limitation of this study. In particular, there are academic limitations from various perspectives that there is a strong tendency to rely on the Delphi survey.",
+O2O 서비스의 선택요인이 전환 비용 및 서비스 만족과 전환 의도에 미치는 영향 = 관광객 중심으로,"부용(Boo, Yong),변정우(Byun, Jeong-Woo)",한국호텔외식관광경영학회,호텔경영학연구,"Vol.26No.6[2017]
+",2017,Korean,"O2O Service,Switching Cost,Service Satisfaction,Switching Intention,O2O 서비스,전환비용,서비스 만족,전환의도",,KCI등재,"학술저널
+",http://www.kasha.or.kr,123-141,,,, DBpia,,"본 연구는 O2O 서비스를 사용함에 있어서 관광객의 불규칙적이고 다양하며 세분화되는 서비스의 선택요인에 대해서 규명하고 이 선택요인이 O2O서비스를 이용할 때 어떠한 영향을 미치는지 알아보고자 하였다. 기존 서비스 유통 채널에서 새로운 서비스 유통채널로의 전환과 기존에 사용 중인 O2O 서비스에서 다른 O2O 서비스로의 전환에서 나타나는 전환비용에 대해 조사하여, 궁극적으로 관광객이 서비스 채널을 전환하는 의도를 분석함으로써 많은 관광객 확보와 잠재 관광객의 탐색을 위한 기초 자료로 활용하고자 조사, 연구하였다. 관련된 실증분석을 위하여 서울시내 스마트폰 사용관광객을 대상으로 온라인 설문조사를 총 361명을 대상으로 실시하였다. 이중 310부를 본 연구의 분석 자료로 사용하였다. 본 연구를 통해 다음과 같은 시사점을 제시하고 있다. 관광객들의 O2O 서비스 선택요인이 크게 작용하면 전환비용이 낮아져서 전환의도가 높아지고, 선택요인 중에는 콘텐츠 요인이 전환비용과 가장 밀접한 것으로 나타났다. 또한 선택요인이 크게 작용하면 서비스 만족이 높아지며, 거래비용이 서비스 만족에 가장 큰 영향을 미치는 것으로 조사되었다. 이는 O2O 서비스의 선택요인 중에 콘텐츠와 거래비용이 서비스의 전환의도에 가장 밀접한 연관성을 가지고 있다는 것을 확인할 수 있었다. 본 조사연구의 결과는 O2O 서비스 기업에 종사하고 있는 실무자들에게 관련 서비스 이용자에 대한 인식과 세분화된 사용자 욕구를 정확하게 파악할 수 있을 것이다. 또한 경쟁하는 다른 기업과 차별화된 마케팅 전략을 수립하는데 좋은 자료로 활용할 수 있을 것이다. 특히 관광 관련 O2O 서비스 기업들이 관련 요인들을 정확히 인지하고, 고객들의 성향을 정확히 파악할 수 있어서 향후 발전적 사업모델을 위한 참고 자료로 사용할 수 있을 것이다.","This study tries to clarify the factors affecting the choice of irregular and segmented services of tourists when using O2O services, and to find out the influence of these factors on the use of O2O service. The main purpose of the study is to procure potential tourists by explaining the switching cost that occurs when switching from current O2O service to another O2O service and by analyzing the tourists"" intention of switching the service channel. The result also can be used as primary data to explore latent tourists. For empirical analysis, the study has conducted an online survey on 361 tourists using smart phones in Seoul. As a result, a total of 357 surveys were collected and 310 copies were used as the data for the final analysis. The test results show the following implications. When tourists’ choice of 020 service is significant, the switching cost is decreased. Thus, the intention to switch is increased. The test result implies that among the selection factors, content factor is most closely related with the switching cost. Also, significant influence of choice factor leads to the improvement of satisfaction of the service, and the transaction cost has the largest influence on the service satisfaction. This implies that contents and transaction cost have close relationships with the intention to switch service among the factors affecting the choice of O2O service. The results of this study will provide implications to the staffs and executives working in the field of O2O service regarding the awareness on service users and on the needs of segmented users. In addition, the results of this study can be used as a reference when establishing the differentiated marketing strategies and services. This research will help the O2O service companies to understand the related factors of consumers’ disposition and to develop advanced business models in the future.","Abstract
+Ⅰ. 서론
+Ⅱ. 이론적 고찰
+Ⅲ. 연구 설계
+Ⅳ. 실증 분석
+Ⅴ. 결론
+참고문헌
+국문초록
+"
+키오스크의 타일구조 인터페이스에 관한 연구 = 한국관광공사 무인안내 시스템 중심으로,"채호병(Ho Byeung Chae),김성훈(Sung Hoon Kim)",한국디자인문화학회,한국디자인문화학회지,"Vol.19No.1[2013]
+",2013,Korean,"키오스크,인터페이스,타일구조,사용성,Kiosk,Interface,Tile Structure,Usability",,KCI등재,"학술저널
+",,429-436,2.0,,, DBpia,,"본 연구의 목적은 키오스크의 인터페이스가 넒은 분야에 적용할 수 있는 공통성이나 범용성을 지닐 수 있는 가이드라인 연구가 필요하다고 판단하고 xbox360, Windows Phone, Windows 8 사례를 통해 타일 구조인터페이스 특징이 키오스크에서 적합한지를 연구하고 타일구조로 되어 있는 한국관광공사 무인안내시스템의 인터페이스 분석을 통해 다음과 같은 결론을 도출하였다. 첫째, 규칙적인 인터페이스 요소는 확장성이 뛰어나며 정보인지에 기여 할 수 있었고 콘텐츠의 추가나 삭제가 용이하며 정보의 중요도에 따라서 다양하게 배치할 수 있는 장점이 있다. 둘째, 선택 영역을 크게 활용 할 수 있어 주목성과 가독성이 매우 높았는데 이것은 키오스크의 목적에 긍정적이며 콘텐츠 성격에 따라 타일 안에 다양한 시각적 요소를 효과적으로 표현 할 수 있다. 셋째, 터치스크린이 제공하는 조작방법(상하스크롤, 좌우 스크롤, 터치, 드래그)이 타일구조에서는 용이하 였으며 특히 스마트 폰에 익숙해진 사용자들에게는 매우 친숙한 경험을 제공하고 있다. 하지만 타일의 크기에 비해 실행 전 사전 정보를 제공하지 못하는 점과 터치스크린에 익숙하지 않은 사용자들에게 인터페이스 조작방법에 대한 안내가 부족한 것은 아쉬운 부분이다. 키오스크의 용도, 스크린의 화면크기, 사용대상, 설치 장소 등 여러 가지 환경적인 요인을 분류해 특징에 따른 타일구조 인터페이스의 사용성 분석은 본 연구에서는 충분히 다루지 못하였고 결론을 통해 타일구조 인터페이스가 키오스크에 가장 적합하다고 할 수 없지만 앞으로 대중화된 키오스크에서 사용성에 대한 근거와 표준제시를 위한 연구가 많이 필요 할것이며 본 연구도 관련분야에 기초 자료로 활용될 수 있을 것이라 사료된다.","This research has been carried out to investigate xbox360, Windows Phone, Windows 8 to figure out if the characteristics of tile-structured interface is appropriate for kiosk as there is need of guideline with community or generality for applying the interface to broader area. The results of analysis on tile-structured interface of kiosk (unmanned guide system of Korea Tourism Organization are as follows. Firstly, regular interface is very expandable, can contribute to catching information and, makes it easy to delete or add contents and can be arranged in various ways according to the level of importance of the information. Secondly, the selected area can be utilized to large extent therefore the levels of attractiveness and legibility are very high. This aspect gives positive influence on kiosk and visual elements can be expressed in various ways according to feature of the content. Third, the controls of touch screen (up-down scroll, left-right scrolls, touch, drag) has been found to be appropriate for the tile-structured interface and this is very friendly especially for smart phone users. However, it cannot provide information in advance as much as the size and the guide on touch screen is not enough for the ones who are not accustomed to the method. The usability of tile-structured interface has not been dealt enough in this research taking into account environmental elements including usage of kiosk, screen size, user and installation place. Further, the tile-structured kiosk may not be the best option for kiosk but there needs to be further research on usability of kiosk, evidence and standard need to be suggested. Finally, this research would be utilized as the basic data.",
